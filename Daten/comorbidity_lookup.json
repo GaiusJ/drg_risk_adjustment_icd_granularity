@@ -1,0 +1,1054 @@
+{
+    "Gruppe A00-A09": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe A15-A19": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe A20-A28": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe A30-A49": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe A50-A64": {
+        "charlson": 0,
+        "elixhauser": -0.001643535427319211
+    },
+    "Gruppe A65-A69": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe A70-A74": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe A75-A79": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe A80-A89": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe A90-A99": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe B00-B09": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe B15-B19": {
+        "charlson": 0.8292952760261091,
+        "elixhauser": 4.5611240181436
+    },
+    "Gruppe B20-B24": {
+        "charlson": 0.7235967012503325,
+        "elixhauser": 0.0
+    },
+    "Gruppe B25-B34": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe B35-B49": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe B50-B64": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe B65-B83": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe B85-B89": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe B90-B94": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe B95-B98": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe B99": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Kapitel 1": {
+        "charlson": 0.010309034801482422,
+        "elixhauser": 0.04565202947125962
+    },
+    "Gruppe C00-C14": {
+        "charlson": 0.19944911896766404,
+        "elixhauser": 0.3988982379353281
+    },
+    "Gruppe C15-C26": {
+        "charlson": 0.33166988883518606,
+        "elixhauser": 0.6633397776703721
+    },
+    "Gruppe C30-C39": {
+        "charlson": 0.6982894200337845,
+        "elixhauser": 1.396578840067569
+    },
+    "Gruppe C40-C41": {
+        "charlson": 0.5871201561193198,
+        "elixhauser": 1.1742403122386396
+    },
+    "Gruppe C43-C44": {
+        "charlson": 0.14587363882593554,
+        "elixhauser": 0.2917472776518711
+    },
+    "Gruppe C45-C49": {
+        "charlson": 0.33847364280094416,
+        "elixhauser": 0.6769472856018883
+    },
+    "Gruppe C50": {
+        "charlson": 1.0188042194833962,
+        "elixhauser": 2.0376084389667923
+    },
+    "Gruppe C51-C58": {
+        "charlson": 0.8029040205483042,
+        "elixhauser": 1.6058080410966085
+    },
+    "Gruppe C60-C63": {
+        "charlson": 1.8857595372538218,
+        "elixhauser": 3.7715190745076437
+    },
+    "Gruppe C64-C68": {
+        "charlson": 0.625937069712887,
+        "elixhauser": 1.251874139425774
+    },
+    "Gruppe C69-C72": {
+        "charlson": 0.33837785061719783,
+        "elixhauser": 0.6767557012343957
+    },
+    "Gruppe C73-C75": {
+        "charlson": 1.4605298367674606,
+        "elixhauser": 2.9210596735349212
+    },
+    "Gruppe C76-C80": {
+        "charlson": 1.6171351160204381,
+        "elixhauser": 3.2342702320408763
+    },
+    "Gruppe C81-C96": {
+        "charlson": 0.4068560934550834,
+        "elixhauser": 1.8308524205478753
+    },
+    "Gruppe C97": {
+        "charlson": 2.0,
+        "elixhauser": 4.0
+    },
+    "Gruppe D00-D09": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe D10-D36": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe D37-D48": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Kapitel 2": {
+        "charlson": 0.8101264440231133,
+        "elixhauser": 1.669747712673346
+    },
+    "Gruppe D50-D53": {
+        "charlson": 0,
+        "elixhauser": -1.3011157103848898
+    },
+    "Gruppe D55-D59": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe D60-D64": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe D65-D69": {
+        "charlson": 0,
+        "elixhauser": 0.7047106467740446
+    },
+    "Gruppe D70-D77": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe D80-D90": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Kapitel 3": {
+        "charlson": 0.0,
+        "elixhauser": -0.12306590169073382
+    },
+    "Gruppe E00-E07": {
+        "charlson": 0,
+        "elixhauser": 0.0
+    },
+    "Gruppe E10-E14": {
+        "charlson": 0.05270976395773902,
+        "elixhauser": 0.0
+    },
+    "Gruppe E15-E16": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe E20-E35": {
+        "charlson": 0,
+        "elixhauser": 0.532923629726801
+    },
+    "Gruppe E40-E46": {
+        "charlson": 0,
+        "elixhauser": 3.136181314201859
+    },
+    "Gruppe E50-E64": {
+        "charlson": 0,
+        "elixhauser": 0.0
+    },
+    "Gruppe E65-E68": {
+        "charlson": 0,
+        "elixhauser": -0.9707064917673291
+    },
+    "Gruppe E70-E90": {
+        "charlson": 0,
+        "elixhauser": 1.227440036973128
+    },
+    "Kapitel 4": {
+        "charlson": 0.011686275245618176,
+        "elixhauser": 0.5546438122368524
+    },
+    "Gruppe F00-F09": {
+        "charlson": 0.9262366567025664,
+        "elixhauser": 0
+    },
+    "Gruppe F10-F19": {
+        "charlson": 0,
+        "elixhauser": -0.20493839366264197
+    },
+    "Gruppe F20-F29": {
+        "charlson": 0,
+        "elixhauser": -0.0038644591791075133
+    },
+    "Gruppe F30-F39": {
+        "charlson": 0,
+        "elixhauser": -0.9564467739761746
+    },
+    "Gruppe F40-F48": {
+        "charlson": 0,
+        "elixhauser": -0.3694593316272674
+    },
+    "Gruppe F50-F59": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe F60-F69": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe F70-F79": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe F80-F89": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe F90-F98": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe F99": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Kapitel 5": {
+        "charlson": 0.31792582595831925,
+        "elixhauser": -0.3154272151617466
+    },
+    "Gruppe G00-G09": {
+        "charlson": 0.00034082001295116047,
+        "elixhauser": 0.0011928700453290616
+    },
+    "Gruppe G10-G14": {
+        "charlson": 0.06717242395227223,
+        "elixhauser": 2.632098401708772
+    },
+    "Gruppe G20-G26": {
+        "charlson": 0,
+        "elixhauser": 1.689850652256792
+    },
+    "Gruppe G30-G32": {
+        "charlson": 0.8178606168106655,
+        "elixhauser": 0.3112090175659438
+    },
+    "Gruppe G35-G37": {
+        "charlson": 0,
+        "elixhauser": 2.8845193392649047
+    },
+    "Gruppe G40-G47": {
+        "charlson": 0.0,
+        "elixhauser": 0.5413306480047614
+    },
+    "Gruppe G50-G59": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe G60-G64": {
+        "charlson": 0,
+        "elixhauser": 0.0
+    },
+    "Gruppe G70-G73": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe G80-G83": {
+        "charlson": 0.7105864948351573,
+        "elixhauser": 2.487052731923051
+    },
+    "Gruppe G90-G99": {
+        "charlson": 0,
+        "elixhauser": 0.47088897367417015
+    },
+    "Kapitel 6": {
+        "charlson": 0.15740346168296995,
+        "elixhauser": 0.8901022491696307
+    },
+    "Gruppe H00-H06": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe H10-H13": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe H15-H22": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe H25-H28": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe H30-H36": {
+        "charlson": 0.0,
+        "elixhauser": 0
+    },
+    "Gruppe H40-H42": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe H43-H45": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe H46-H48": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe H49-H52": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe H53-H54": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe H55-H59": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Kapitel 7": {
+        "charlson": 0.0,
+        "elixhauser": 0.0
+    },
+    "Gruppe H60-H62": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe H65-H75": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe H80-H83": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe H90-H95": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Kapitel 8": {
+        "charlson": 0.0,
+        "elixhauser": 0.0
+    },
+    "Gruppe I00-I02": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe I05-I09": {
+        "charlson": 0.0005844085938821648,
+        "elixhauser": -0.6630730664534088
+    },
+    "Gruppe I10-I15": {
+        "charlson": 0.1068,
+        "elixhauser": 0.3819
+    },
+    "Gruppe I20-I25": {
+        "charlson": 0.15447859998937777,
+        "elixhauser": 0.5406750999628221
+    },
+    "Gruppe I26-I28": {
+        "charlson": 0.02890629503660575,
+        "elixhauser": 2.6156143713610422
+    },
+    "Gruppe I30-I52": {
+        "charlson": 0.26246831707377594,
+        "elixhauser": 2.4172633368007626
+    },
+    "Gruppe I60-I69": {
+        "charlson": 0.0,
+        "elixhauser": 0
+    },
+    "Gruppe I70-I79": {
+        "charlson": 0.0,
+        "elixhauser": 0.3836312915985531
+    },
+    "Gruppe I80-I89": {
+        "charlson": 0.1303729616555223,
+        "elixhauser": 0.3585256445526864
+    },
+    "Gruppe I95-I99": {
+        "charlson": 0.303214301878253,
+        "elixhauser": 0.8338393301651957
+    },
+    "Kapitel 9": {
+        "charlson": 0.1455769536120999,
+        "elixhauser": 0.9097985814433054
+    },
+    "Gruppe J00-J06": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe J09-J18": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe J20-J22": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe J30-J39": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe J40-J47": {
+        "charlson": 0.2158833574952214,
+        "elixhauser": 0.6476500724856642
+    },
+    "Gruppe J60-J70": {
+        "charlson": 0.024456006151449484,
+        "elixhauser": 0.07336801845434845
+    },
+    "Gruppe J80-J84": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe J85-J86": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe J90-J94": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe J95-J99": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Kapitel 10": {
+        "charlson": 0.05420460059951287,
+        "elixhauser": 0.16261380179853863
+    },
+    "Gruppe K00-K14": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe K20-K31": {
+        "charlson": 0.0,
+        "elixhauser": 0.0
+    },
+    "Gruppe K35-K38": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe K40-K46": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe K50-K52": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe K55-K63": {
+        "charlson": 0.0,
+        "elixhauser": 0.009383913571716284
+    },
+    "Gruppe K65-K67": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe K70-K77": {
+        "charlson": 0.9005543828721209,
+        "elixhauser": 3.6479297627055742
+    },
+    "Gruppe K80-K87": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe K90-K93": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Kapitel 11": {
+        "charlson": 0.09774565002677546,
+        "elixhauser": 0.3988299364463694
+    },
+    "Gruppe L00-L08": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe L10-L14": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe L20-L30": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe L40-L45": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe L50-L54": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe L55-L59": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe L60-L75": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe L80-L99": {
+        "charlson": 0,
+        "elixhauser": 0.0
+    },
+    "Kapitel 12": {
+        "charlson": 0.0,
+        "elixhauser": 0.0
+    },
+    "Gruppe M00-M03": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe M05-M14": {
+        "charlson": 0.2164,
+        "elixhauser": 0.0
+    },
+    "Gruppe M15-M19": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe M20-M25": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe M30-M36": {
+        "charlson": 0.3563986632592884,
+        "elixhauser": 0.0
+    },
+    "Gruppe M40-M43": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe M45-M49": {
+        "charlson": 0,
+        "elixhauser": 0.0
+    },
+    "Gruppe M50-M54": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe M60-M63": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe M65-M68": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe M70-M79": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe M80-M85": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe M86-M90": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe M91-M94": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe M95-M99": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Kapitel 13": {
+        "charlson": 0.024611217500725008,
+        "elixhauser": 0.0
+    },
+    "Gruppe N00-N08": {
+        "charlson": 0.0012668233799676219,
+        "elixhauser": 0
+    },
+    "Gruppe N10-N16": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe N17-N19": {
+        "charlson": 0.44729327731940877,
+        "elixhauser": 2.2364663865970438
+    },
+    "Gruppe N20-N23": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe N25-N29": {
+        "charlson": 0.007264319265921421,
+        "elixhauser": 0.0363215963296071
+    },
+    "Gruppe N30-N39": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe N40-N51": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe N60-N64": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe N70-N77": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe N80-N98": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe N99": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Kapitel 14": {
+        "charlson": 0.1878876763477491,
+        "elixhauser": 0.9390852050734261
+    },
+    "Gruppe O00-O08": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe O09": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe O10-O16": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe O20-O29": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe O30-O48": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe O60-O75": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe O80-O82": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe O85-O92": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe O94-O99": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Kapitel 15": {
+        "charlson": 0.0,
+        "elixhauser": 0.0
+    },
+    "Gruppe P00-P04": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe P05-P08": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe P10-P15": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe P20-P29": {
+        "charlson": 0.04342675271859252,
+        "elixhauser": 0.1519936345150738
+    },
+    "Gruppe P35-P39": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe P50-P61": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe P70-P74": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe P75-P78": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe P80-P83": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe P90-P96": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Kapitel 16": {
+        "charlson": 0.00796567236307379,
+        "elixhauser": 0.027879853270758256
+    },
+    "Gruppe Q00-Q07": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe Q10-Q18": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe Q20-Q28": {
+        "charlson": 0.0002091737636336471,
+        "elixhauser": -0.04985806066039145
+    },
+    "Gruppe Q30-Q34": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe Q35-Q37": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe Q38-Q45": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe Q50-Q56": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe Q60-Q64": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe Q65-Q79": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe Q80-Q89": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe Q90-Q99": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Kapitel 17": {
+        "charlson": 5.655697307080125e-05,
+        "elixhauser": -0.013480758509804555
+    },
+    "Gruppe R00-R09": {
+        "charlson": 0,
+        "elixhauser": 0.5703850867829043
+    },
+    "Gruppe R10-R19": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe R20-R23": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe R25-R29": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe R30-R39": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe R40-R46": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe R47-R49": {
+        "charlson": 0,
+        "elixhauser": 2.694690711021821
+    },
+    "Gruppe R50-R69": {
+        "charlson": 0,
+        "elixhauser": 0.29850855955656863
+    },
+    "Gruppe R70-R79": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe R80-R82": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe R83-R89": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe R90-R94": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe R95-R99": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Kapitel 18": {
+        "charlson": 0.0,
+        "elixhauser": 0.24742111352886706
+    },
+    "Gruppe S00-S09": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe S10-S19": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe S20-S29": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe S30-S39": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe S40-S49": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe S50-S59": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe S60-S69": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe S70-S79": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe S80-S89": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe S90-S99": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe T00-T07": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe T08-T14": {
+        "charlson": 0.19125446253533915,
+        "elixhauser": 0.669390618873687
+    },
+    "Gruppe T15-T19": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe T20-T25": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe T26-T28": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe T29-T32": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe T33-T35": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe T36-T50": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe T51-T65": {
+        "charlson": 0,
+        "elixhauser": 0.0
+    },
+    "Gruppe T66-T78": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe T79": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe T80-T88": {
+        "charlson": 0,
+        "elixhauser": 0.062166984571850055
+    },
+    "Gruppe T89": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe T90-T98": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Kapitel 19": {
+        "charlson": 0.002930299160526834,
+        "elixhauser": 0.026218083436379658
+    },
+    "V01-X59": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe X60-X84": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "X85-Y09": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe Y10-Y34": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe Y35-Y36": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe Y40-Y84": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Kapitel 20": {
+        "charlson": 0.0,
+        "elixhauser": 0.0
+    },
+    "Gruppe Z00-Z13": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe Z20-Z29": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe Z30-Z39": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe Z40-Z54": {
+        "charlson": 0.006247567311224594,
+        "elixhauser": 0.11178562214446455
+    },
+    "Gruppe Z55-Z65": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe Z70-Z76": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe Z80-Z99": {
+        "charlson": 0.018654320852958418,
+        "elixhauser": 0.5483203913223182
+    },
+    "Kapitel 21": {
+        "charlson": 0.008018532678741233,
+        "elixhauser": 0.22765814155364195
+    },
+    "Gruppe U00-U49": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe U50-U52": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe U55": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe U60-U61": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe U69": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe U80-U85": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Gruppe U99": {
+        "charlson": 0,
+        "elixhauser": 0
+    },
+    "Kapitel 22": {
+        "charlson": 0.0,
+        "elixhauser": 0.0
+    }
+}

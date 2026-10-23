@@ -1,0 +1,367 @@
+{
+    "fall_nr": {
+        "dtype": "Int64",
+        "mandatory": true,
+        "true_values": null,
+        "name": "Systemfreie Fallnummer"
+    },
+    "kh_region": {
+        "dtype": "Int64",
+        "mandatory": true,
+        "true_values": {
+            "1": "Nord: Schleswig-Holstein, Hamburg, Niedersachsen, Bremen, Nordrhein-Westfalen",
+            "2": "Süd: Hessen, Rheinland-Pfalz, Baden-Württemberg, Bayern, Saarland",
+            "3": "Ost: Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt, Thüringen"
+        },
+        "name": "Region des Instituts"
+    },
+    "kh_typ_gem": {
+        "dtype": "Int64",
+        "mandatory": true,
+        "true_values": {
+            "1": "Agglomerationsräume",
+            "2": "Verstädterte Räume",
+            "3": "Ländliche Räume"
+        },
+        "name": "Siedlungsstrukturelle Gebietstypen der Institute"
+    },
+    "pat_region": {
+        "dtype": "Int64",
+        "mandatory": true,
+        "true_values": {
+            "1": "Nord: Schleswig-Holstein, Hamburg, Niedersachsen, Bremen, Nordrhein-Westfalen",
+            "2": "Süd: Hessen, Rheinland-Pfalz, Baden-Württemberg, Bayern, Saarland",
+            "3": "Ost: Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt, Thüringen"
+        },
+        "name": "Region des Patienten"
+    },
+    "pat_typ_gem": {
+        "dtype": "Int64",
+        "mandatory": true,
+        "true_values": {
+            "1": "Agglomerationsräume",
+            "2": "Verstädterte Räume",
+            "3": "Ländliche Räume"
+        },
+        "name": "Siedlungsstrukturelle Gebietstypen der Patienten"
+    },
+    "sex": {
+        "dtype": "string",
+        "mandatory": true,
+        "true_values": {
+            "w": "weiblich",
+            "m": "männlich"
+        },
+        "name": "Geschlecht"
+    },
+    "typ_alter": {
+        "dtype": "Int64",
+        "mandatory": true,
+        "true_values": {
+            "1": "< 1 Jahr alt",
+            "2": ">= 1 und < 10 Jahre alt",
+            "3": ">= 10 und < 20 Jahre alt",
+            "4": ">= 20 und < 30 Jahre alt",
+            "5": ">= 30 und < 40 Jahre alt",
+            "6": ">= 40 und < 50 Jahre alt",
+            "7": ">= 50 und < 60 Jahre alt",
+            "8": ">= 60 und < 70 Jahre alt",
+            "9": ">= 70 und < 80 Jahre alt",
+            "10": ">= 80 Jahre alt"
+        },
+        "name": "Alter gruppiert"
+    },
+    "aufn_anl": {
+        "dtype": "string",
+        "mandatory": true,
+        "true_values": {
+            "E": "Einweisung durch einen Arzt oder Zahnarzt",
+            "N": "Notfall",
+            "V": "Verlegung",
+            "G": "Geburt"
+        },
+        "name": "Aufnahmeanlass"
+    },
+    "aufn_gew": {
+        "dtype": "Int64",
+        "mandatory": false,
+        "true_values": {
+            "1": "< 3000 g",
+            "2": ">= 3000 g und < 4500 g",
+            "3": ">= 4500 g und < 7500 g",
+            "4": ">= 7500 g"
+        },
+        "name": "Aufnahmegewicht"
+    },
+    "entl_grd": {
+        "dtype": "Int64",
+        "mandatory": true,
+        "true_values": {
+            "1": "Behandlung regulär beendet",
+            "2": "Behandlung gegen ärztlichen Rat beendet",
+            "3": "Verlegung in ein anderes Krankenhaus/zur psychiatrischen Behandlung",
+            "4": "Entlassung in eine Rehabilitationseinrichtung/ eine Pflegeeinrichtung/ein Hospiz",
+            "5": "Tod",
+            "6": "Sonstiger Entlassungs-/Verlegungsgrund"
+        },
+        "name": "Entlassungsgrund"
+    },
+    "typ_vwd": {
+        "dtype": "Int64",
+        "mandatory": true,
+        "true_values": {
+            "1": "Stundenfall",
+            "2": "1 bis 3 Tage",
+            "3": "4 bis 7 Tage",
+            "4": "8 bis 10 Tage",
+            "5": "11 bis 14 Tage",
+            "6": "15 bis 21 Tage",
+            "7": "22 Tage oder länger"
+        },
+        "name": "Typ Verweildauer"
+    },
+    "icd_hd3": {
+        "dtype": "string",
+        "mandatory": true,
+        "true_values":  null,
+        "name": "ICD-Code der Hauptdiagnose"
+    },
+    "icd_nd1": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "ICD-Code der Nebendiagnose 1"
+    },
+    "icd_nd2": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "ICD-Code der Nebendiagnose 2"
+    },
+    "icd_nd3": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "ICD-Code der Nebendiagnose 3"
+    },
+    "icd_nd4": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "ICD-Code der Nebendiagnose 4"
+    },
+    "icd_nd5": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "ICD-Code der Nebendiagnose 5"
+    },
+    "icd_nd6": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "ICD-Code der Nebendiagnose 6"
+    },
+    "icd_nd7": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "ICD-Code der Nebendiagnose 7"
+    },
+    "icd_nd8": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "ICD-Code der Nebendiagnose 8"
+    },
+    "icd_nd9": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "ICD-Code der Nebendiagnose 9"
+    },
+    "icd_nd10": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "ICD-Code der Nebendiagnose 10"
+    },
+    "ops_ko1": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "OPS-Code der Prozedur 1"
+    },
+    "ops_ko2": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "OPS-Code der Prozedur 2"
+    },
+    "ops_ko3": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "OPS-Code der Prozedur 3"
+    },
+    "ops_ko4": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "OPS-Code der Prozedur 4"
+    },
+    "ops_ko5": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "OPS-Code der Prozedur 5"
+    },
+    "ops_ko6": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "OPS-Code der Prozedur 6"
+    },
+    "ops_ko7": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "OPS-Code der Prozedur 7"
+    },
+    "ops_ko8": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "OPS-Code der Prozedur 8"
+    },
+    "ops_ko9": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "OPS-Code der Prozedur 9"
+    },
+    "ops_ko10": {
+        "dtype": "string",
+        "mandatory": false,
+        "true_values":  null,
+        "name": "OPS-Code der Prozedur 10"
+    },
+    "typ_op": {
+        "dtype": "Int64",
+        "mandatory": false,
+        "true_values": {
+            "1": "Ja",
+            "2": "Nein"
+        },
+        "name": "Operation laut Kapitel 5 des OPS-Codes"
+    },
+    "fab_max": {
+        "dtype": "Int64",
+        "mandatory": true,
+        "true_values": {
+            "1": "Innere Medizin",
+            "2": "Geriatrie",
+            "3": "Kardiologie",
+            "4": "Nephrologie",
+            "5": "Hämatologie und internistische Onkologie",
+            "6": "Endokrinologie",
+            "7": "Gastroenterologie",
+            "8": "Pneumologie",
+            "9": "Rheumatologie",
+            "10": "Pädiatrie",
+            "11": "Kinderkardiologie",
+            "12": "Neonatologie",
+            "13": "Kinderchirurgie",
+            "14": "Lungen- und Bronchialheilkunde",
+            "15": "Allgemeine Chirurgie",
+            "16": "Unfallchirurgie",
+            "17": "Neurochirurgie",
+            "18": "Gefäßchirurgie",
+            "19": "Plastische Chirurgie",
+            "20": "Thoraxchirurgie",
+            "21": "Herzchirurgie",
+            "22": "Urologie",
+            "23": "Orthopädie",
+            "24": "Frauenheilkunde und Geburtshilfe",
+            "25": "Geburtshilfe",
+            "26": "Hals-, Nasen-, Ohrenheilkunde",
+            "27": "Augenheilkunde",
+            "28": "Neurologie",
+            "29": "Allgemeine Psychiatrie",
+            "30": "Kinder- und Jugendpsychiatrie",
+            "31": "Psychosomatik/Psychotherapie",
+            "32": "Nuklearmedizin",
+            "33": "Strahlenheilkunde",
+            "34": "Dermatologie",
+            "35": "Zahn- und Kieferheilkunde, Mund- und Kieferchirurgie",
+            "36": "Intensivmedizin",
+            "37": "Sonstige Fachabteilung"
+        },
+        "name": "Fachabteilung mit der längsten Verweildauer"
+    },
+    "tage_max": {
+        "dtype": "Int64",
+        "mandatory": true,
+        "true_values": {
+            "1": "Stundenfall",
+            "2": "1 bis 3 Tage",
+            "3": "4 bis 7 Tage",
+            "4": "8 bis 10 Tage",
+            "5": "11 bis 14 Tage",
+            "6": "15 bis 21 Tage",
+            "7": "22 Tage oder länger"
+        },
+        "name": "Verweildauer in der Fachabteilung mit längster Verweildauer"
+    },
+    "drgh": {
+        "dtype": "string",
+        "mandatory": true,
+        "true_values": null,
+        "name": "DRG-Code"
+    },
+    "partition": {
+        "dtype": "string",
+        "mandatory": true,
+        "true_values": {
+            "M": "medizinische Fallpauschalen",
+            "O": "operative Fallpauschalen",
+            "A": "andere Fallpauschalen, z. B. Koloskopie"
+        },
+        "name": "DRG-Partition"
+    },
+    "cm_vol": {
+        "dtype": "float",
+        "mandatory": true,
+        "true_values": null,
+        "name": "Case Mix Erlösvolumen"
+    },
+    "beatm": {
+        "dtype": "Int64",
+        "mandatory": false,
+        "true_values": {
+            "0": "nicht beatmet", 
+            "1": "bis 12 Stunden beatmet",
+            "2": "13 bis 72 Stunden (= 3 Tage) beatmet",
+            "3": "73 bis 168 Stunden (= 7 Tage) beatmet",
+            "4": "über 168 Stunden (= 7 Tage) beatmet"
+        },
+        "name": "Beatmungszeit in Stunden"
+    },
+    "split": {
+        "dtype": "string",
+        "mandatory": true,
+        "true_values": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D",
+            "E": "E",
+            "F": "F",
+            "G": "G",
+            "H": "H",
+            "I": "I",
+            "Z": "Z"
+        },
+        "name": "Aufteilung einer Basis-DRG nach Schweregrad bzw. Ressourcenverbrauch, 4. Stelle der DRG-Notation"
+    }
+}

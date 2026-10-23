@@ -1,0 +1,373 @@
+{
+    "DIAGNOSTISCHE MASSNAHMEN": {
+        "number": 1,
+        "name": "DIAGNOSTISCHE MASSNAHMEN",
+        "groups": {
+            "Klinische Untersuchung": {
+                "number_start": 110,
+                "number_end": 110,
+                "name": "Klinische Untersuchung"
+            },
+            "Untersuchung einzelner Körpersysteme": {
+                "number_start": 120,
+                "number_end": 133,
+                "name": "Untersuchung einzelner Körpersysteme"
+            },
+            "Biopsie ohne Inzision": {
+                "number_start": 140,
+                "number_end": 149,
+                "name": "Biopsie ohne Inzision"
+            },
+            "Biopsie durch Inzision": {
+                "number_start": 150,
+                "number_end": 158,
+                "name": "Biopsie durch Inzision"
+            },
+            "Diagnostische Endoskopie": {
+                "number_start": 160,
+                "number_end": 169,
+                "name": "Diagnostische Endoskopie"
+            },
+            "Funktionstests": {
+                "number_start": 170,
+                "number_end": 179,
+                "name": "Funktionstests"
+            },
+            "Explorative diagnostische Maßnahmen": {
+                "number_start": 184,
+                "number_end": 185,
+                "name": "Explorative diagnostische Maßnahmen"
+            },
+            "Andere diagnostische Maßnahmen": {
+                "number_start": 190,
+                "number_end": 199,
+                "name": "Andere diagnostische Maßnahmen"
+            }
+        }
+    },
+    "BILDGEBENDE DIAGNOSTIK": {
+        "number": 3,
+        "name": "BILDGEBENDE DIAGNOSTIK",
+        "groups": {
+            "Ultraschalluntersuchungen": {
+                "number_start": 303,
+                "number_end": 305,
+                "name": "Ultraschalluntersuchungen"
+            },
+            "Projektionsradiographie": {
+                "number_start": 310,
+                "number_end": 313,
+                "name": "Projektionsradiographie"
+            },
+            "Computertomographie (CT)": {
+                "number_start": 320,
+                "number_end": 326,
+                "name": "Computertomographie (CT)"
+            },
+            "Optische Verfahren": {
+                "number_start": 330,
+                "number_end": 330,
+                "name": "Optische Verfahren"
+            },
+            "Darstellung des Gefäßsystems": {
+                "number_start": 360,
+                "number_end": 369,
+                "name": "Darstellung des Gefäßsystems"
+            },
+            "Nuklearmedizinische diagnostische Verfahren": {
+                "number_start": 370,
+                "number_end": 376,
+                "name": "Nuklearmedizinische diagnostische Verfahren"
+            },
+            "Magnetresonanztomographie (MRT)": {
+                "number_start": 380,
+                "number_end": 384,
+                "name": "Magnetresonanztomographie (MRT)"
+            },
+            "Andere bildgebende Verfahren": {
+                "number_start": 390,
+                "number_end": 390,
+                "name": "Andere bildgebende Verfahren"
+            },
+            "Zusatzinformationen zu bildgebenden Verfahren": {
+                "number_start": 399,
+                "number_end": 399,
+                "name": "Zusatzinformationen zu bildgebenden Verfahren"
+            }
+        }
+    },
+    "OPERATIONEN": {
+        "number": 5,
+        "name": "OPERATIONEN",
+        "groups": {
+            "Operationen am Nervensystem": {
+                "number_start": 501,
+                "number_end": 505,
+                "name": "Operationen am Nervensystem"
+            },
+            "Operationen an endokrinen Drüsen": {
+                "number_start": 506,
+                "number_end": 507,
+                "name": "Operationen an endokrinen Drüsen"
+            },
+            "Operationen an den Augen": {
+                "number_start": 508,
+                "number_end": 516,
+                "name": "Operationen an den Augen"
+            },
+            "Operationen an den Ohren": {
+                "number_start": 518,
+                "number_end": 520,
+                "name": "Operationen an den Ohren"
+            },
+            "Operationen an Nase und Nasennebenhöhlen": {
+                "number_start": 521,
+                "number_end": 522,
+                "name": "Operationen an Nase und Nasennebenhöhlen"
+            },
+            "Operationen an Mundhöhle und Gesicht": {
+                "number_start": 523,
+                "number_end": 528,
+                "name": "Operationen an Mundhöhle und Gesicht"
+            },
+            "Operationen an Pharynx, Larynx und Trachea": {
+                "number_start": 532,
+                "number_end": 534,
+                "name": "Operationen an Pharynx, Larynx und Trachea"
+            },
+            "Operationen an Lunge und Bronchus": {
+                "number_start": 535,
+                "number_end": 537,
+                "name": "Operationen an Lunge und Bronchus"
+            },
+            "Operationen am Herzen": {
+                "number_start": 538,
+                "number_end": 539,
+                "name": "Operationen am Herzen"
+            },
+            "Operationen an den Blutgefäßen": {
+                "number_start": 540,
+                "number_end": 541,
+                "name": "Operationen an den Blutgefäßen"
+            },
+            "Operationen am hämatopoetischen und Lymphgefäßsystem": {
+                "number_start": 542,
+                "number_end": 554,
+                "name": "Operationen am hämatopoetischen und Lymphgefäßsystem"
+            },
+            "Operationen an den Harnorganen": {
+                "number_start": 555,
+                "number_end": 559,
+                "name": "Operationen an den Harnorganen"
+            },
+            "Operationen an den männlichen Geschlechtsorganen": {
+                "number_start": 560,
+                "number_end": 564,
+                "name": "Operationen an den männlichen Geschlechtsorganen"
+            },
+            "Operationen an den weiblichen Geschlechtsorganen": {
+                "number_start": 565,
+                "number_end": 571,
+                "name": "Operationen an den weiblichen Geschlechtsorganen"
+            },
+            "Geburtshilfliche Operationen": {
+                "number_start": 572,
+                "number_end": 575,
+                "name": "Geburtshilfliche Operationen"
+            },
+            "Operationen an Kiefer- und Gesichtsschädelknochen": {
+                "number_start": 576,
+                "number_end": 577,
+                "name": "Operationen an Kiefer- und Gesichtsschädelknochen"
+            },
+            "Operationen an den Bewegungsorganen": {
+                "number_start": 578,
+                "number_end": 586,
+                "name": "Operationen an den Bewegungsorganen"
+            },
+            "Operationen an der Mamma": {
+                "number_start": 587,
+                "number_end": 588,
+                "name": "Operationen an der Mamma"
+            },
+            "Operationen an Haut und Unterhaut": {
+                "number_start": 589,
+                "number_end": 592,
+                "name": "Operationen an Haut und Unterhaut"
+            },
+            "Zusatzinformationen zu Operationen": {
+                "number_start": 593,
+                "number_end": 599,
+                "name": "Zusatzinformationen zu Operationen"
+            }
+        }
+    },
+    "MEDIKAMENTE": {
+        "number": 6,
+        "name": "MEDIKAMENTE",
+        "groups": {
+            "Applikation von Medikamenten": {
+                "number_start": 600,
+                "number_end": 600,
+                "name": "Applikation von Medikamenten"
+            }
+        }
+    },
+    "NICHTOPERATIVE THERAPEUTISCHE MASSNAHMEN": {
+        "number": 8,
+        "name": "NICHTOPERATIVE THERAPEUTISCHE MASSNAHMEN",
+        "groups": {
+            "Applikation von Medikamenten und Nahrung und therapeutische Injektion": {
+                "number_start": 801,
+                "number_end": 802,
+                "name": "Applikation von Medikamenten und Nahrung und therapeutische Injektion"
+            },
+            "Immuntherapie": {
+                "number_start": 803,
+                "number_end": 803,
+                "name": "Immuntherapie"
+            },
+            "Entfernung von Fremdmaterial und Konkrementen": {
+                "number_start": 810,
+                "number_end": 811,
+                "name": "Entfernung von Fremdmaterial und Konkrementen"
+            },
+            "Manipulationen an Verdauungstrakt und Harntrakt": {
+                "number_start": 812,
+                "number_end": 813,
+                "name": "Manipulationen an Verdauungstrakt und Harntrakt"
+            },
+            "Therapeutische Katheterisierung, Aspiration, Punktion und Spülung": {
+                "number_start": 814,
+                "number_end": 817,
+                "name": "Therapeutische Katheterisierung, Aspiration, Punktion und Spülung"
+            },
+            "Verbände": {
+                "number_start": 819,
+                "number_end": 819,
+                "name": "Verbände"
+            },
+            "Geschlossene Reposition und Korrektur von Deformitäten": {
+                "number_start": 820,
+                "number_end": 822,
+                "name": "Geschlossene Reposition und Korrektur von Deformitäten"
+            },
+            "Immobilisation und spezielle Lagerung": {
+                "number_start": 831,
+                "number_end": 839,
+                "name": "Immobilisation und spezielle Lagerung"
+            },
+            "Knochenextension und andere Extensionsverfahren": {
+                "number_start": 840,
+                "number_end": 841,
+                "name": "Knochenextension und andere Extensionsverfahren"
+            },
+            "Tamponade von Blutungen und Manipulation an Fetus oder Uterus": {
+                "number_start": 850,
+                "number_end": 851,
+                "name": "Tamponade von Blutungen und Manipulation an Fetus oder Uterus"
+            },
+            "Strahlentherapie, nuklearmedizinische Therapie und Chemotherapie": {
+                "number_start": 852,
+                "number_end": 854,
+                "name": "Strahlentherapie, nuklearmedizinische Therapie und Chemotherapie"
+            },
+            "Frührehabilitative und physikalische Therapie": {
+                "number_start": 855,
+                "number_end": 860,
+                "name": "Frührehabilitative und physikalische Therapie"
+            },
+            "Elektrostimulation, Elektrotherapie und Dauer der Behandlung durch fokussierten Ultraschall": {
+                "number_start": 863,
+                "number_end": 866,
+                "name": "Elektrostimulation, Elektrotherapie und Dauer der Behandlung durch fokussierten Ultraschall"
+            },
+            "Maßnahmen für das Atmungssystem": {
+                "number_start": 870,
+                "number_end": 872,
+                "name": "Maßnahmen für das Atmungssystem"
+            },
+            "Maßnahmen im Rahmen der Reanimation": {
+                "number_start": 877,
+                "number_end": 877,
+                "name": "Maßnahmen im Rahmen der Reanimation"
+            },
+            "Maßnahmen für den Blutkreislauf": {
+                "number_start": 880,
+                "number_end": 885,
+                "name": "Maßnahmen für den Blutkreislauf"
+            },
+            "Therapie mit besonderen Zellen und Blutbestandteilen": {
+                "number_start": 886,
+                "number_end": 886,
+                "name": "Therapie mit besonderen Zellen und Blutbestandteilen"
+            },
+            "Anästhesie und Schmerztherapie": {
+                "number_start": 890,
+                "number_end": 891,
+                "name": "Anästhesie und Schmerztherapie"
+            },
+            "Patientenmonitoring": {
+                "number_start": 892,
+                "number_end": 893,
+                "name": "Patientenmonitoring"
+            },
+            "Komplexbehandlung": {
+                "number_start": 897,
+                "number_end": 898,
+                "name": "Komplexbehandlung"
+            },
+            "Zusatzinformationen zu nichtoperativen therapeutischen Maßnahmen": {
+                "number_start": 899,
+                "number_end": 899,
+                "name": "Zusatzinformationen zu nichtoperativen therapeutischen Maßnahmen"
+            }
+        }
+    },
+    "ERGÄNZENDE MASSNAHMEN": {
+        "number": 9,
+        "name": "ERGÄNZENDE MASSNAHMEN",
+        "groups": {
+            "Pflege und Versorgung von Patienten": {
+                "number_start": 920,
+                "number_end": 920,
+                "name": "Pflege und Versorgung von Patienten"
+            },
+            "Geburtsbegleitende Maßnahmen und Behandlung wegen Infertilität": {
+                "number_start": 926,
+                "number_end": 928,
+                "name": "Geburtsbegleitende Maßnahmen und Behandlung wegen Infertilität"
+            },
+            "Phoniatrische und pädaudiologische Therapie": {
+                "number_start": 931,
+                "number_end": 932,
+                "name": "Phoniatrische und pädaudiologische Therapie"
+            },
+            "Psychosoziale, psychosomatische, neuropsychologische und psychotherapeutische Therapie": {
+                "number_start": 940,
+                "number_end": 941,
+                "name": "Psychosoziale, psychosomatische, neuropsychologische und psychotherapeutische Therapie"
+            },
+            "Präventive Maßnahmen": {
+                "number_start": 950,
+                "number_end": 950,
+                "name": "Präventive Maßnahmen"
+            },
+            "Behandlung bei psychischen und psychosomatischen Störungen und Verhaltensstörungen bei Erwachsenen": {
+                "number_start": 960,
+                "number_end": 964,
+                "name": "Behandlung bei psychischen und psychosomatischen Störungen und Verhaltensstörungen bei Erwachsenen"
+            },
+            "Behandlung bei psychischen und psychosomatischen Störungen und Verhaltensstörungen bei Kindern und Jugendlichen": {
+                "number_start": 965,
+                "number_end": 969,
+                "name": "Behandlung bei psychischen und psychosomatischen Störungen und Verhaltensstörungen bei Kindern und Jugendlichen"
+            },
+            "Andere ergänzende Maßnahmen und Informationen": {
+                "number_start": 998,
+                "number_end": 999,
+                "name": "Andere ergänzende Maßnahmen und Informationen"
+            }
+        }
+    }
+}
